@@ -6,6 +6,7 @@ this = {
             "name": "stage1",
             "function": function (CONTEXT) {
                 let a = 12
+                //this file changed at 9.47
             },
         },
         {
@@ -13,7 +14,8 @@ this = {
             "function": function (CONTEXT) {
                //This is this. 9.46 inpuuter change
                let x = 12 + 5
-               let y = x *100;
+               let y = x *52;
+               let c = 2*y;
             },
         }
     ]
